@@ -1,0 +1,11 @@
+execve() failed at /usr/local/sbin/ls, no ls command found.
+execve() failed at /usr/local/bin/ls, no ls command found.
+execve() failed at /usr/sbin/ls, no ls command found.
+execve() failed at /usr/bin/ls, no ls command found.
+execve() failed at /sbin/ls, no ls command found.
+a.out
+output.txt
+PA3.c
+PA3.h
+PA3.h.gch
+README.md
